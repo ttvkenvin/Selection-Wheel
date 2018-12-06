@@ -1,5 +1,3 @@
-# Music Ali-cation Spinner (inside joke)
-(App Store: https://itunes.apple.com/de/app/music-ali-cation-spinner/id1155914004?l=en&mt=8 )
 
 A free spirited spinner so solve all your problems.
 1. Enter options into spinner
