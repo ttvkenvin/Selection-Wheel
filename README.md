@@ -15,10 +15,9 @@ With this app, you don't have to carry other tools, just a phone. Convenient and
 # If more applications are required, please contact us at gretyKvhu@gmail.com
 
 # Screenshot
-![image](https://github.com/ttvkenvin/Selection-Wheel/blob/master/scin/1.png)
-![image](https://github.com/ttvkenvin/Selection-Wheel/blob/master/scin/2.png)
-![image](https://github.com/ttvkenvin/Selection-Wheel/blob/master/scin/3.png)
-![image](https://github.com/ttvkenvin/Selection-Wheel/blob/master/scin/4.png)
+![image](https://github.com/ttvkenvin/Selection-Wheel/blob/master/x1.png)
+![image](https://github.com/ttvkenvin/Selection-Wheel/blob/master/x2.png)
+![image](https://github.com/ttvkenvin/Selection-Wheel/blob/master/x3.png)
 
 
 # Privacy Policy
