@@ -1,4 +1,4 @@
-# Selection-Wheel
+# Mini Selector
 
 Turn the selection wheel and select it automatically to solve your troubles about your choice.  
 Enter options in the spinner Rotating wheel The result of a basic life decision.  
