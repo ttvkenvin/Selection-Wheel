@@ -1,3 +1,5 @@
+![image](https://github.com/ttvkenvin/Selection-Wheel/blob/master/120.png)
+
 # Mini Selector
 
 Turn the selection wheel and select it automatically to solve your troubles about your choice.  
